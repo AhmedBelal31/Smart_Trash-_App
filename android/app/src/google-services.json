@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "920093027279",
+    "project_id": "smart-trash-46ba1",
+    "storage_bucket": "smart-trash-46ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920093027279:android:3afc2d9989768953f1c0ba",
+        "android_client_info": {
+          "package_name": "com.example.smart_trash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920093027279-3q94ndqq0sag4d7tcsbkiop35898c3df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_trash",
+            "certificate_hash": "bc4e3dd48cb0fc0e368467d920d352bca0f07e3f"
+          }
+        },
+        {
+          "client_id": "920093027279-pi89642ohi214vj94b5naf1hccst6os2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxLNm1fIgeqIJXBSYIW1V5NNH2lKwVhw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920093027279-pi89642ohi214vj94b5naf1hccst6os2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
