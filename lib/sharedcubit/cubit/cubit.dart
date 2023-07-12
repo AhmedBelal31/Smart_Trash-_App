@@ -16,11 +16,11 @@ class NewsCubit extends Cubit <NewsState>
   {
     return BlocProvider.of(context);
   }
-  var currentIndex = 0 ;
+  var currentIndex = 1 ;
   List<Widget> Screens =[
   homescreen(),
   mapsscreen(),
-  rewardscreen(),
+  // rewardscreen(),
   settingscreen()
 
   ];

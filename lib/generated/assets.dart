@@ -14,6 +14,8 @@ class Assets {
   static const String imagesLogin1 = 'assets/images/login1.png';
   static const String imagesLogin2 = 'assets/images/login2.jpg';
   static const String imagesLogo = 'assets/images/logo.png';
+  static const String imagesLogo1 = 'assets/images/logo1.png';
+  static const String imagesLogo2 = 'assets/images/logo2.png';
   static const String imagesNoInternet = 'assets/images/no_internet.png';
   static const String imagesOtp = 'assets/images/otp.jpg';
   static const String imagesOtp1 = 'assets/images/otp1.png';
@@ -23,6 +25,7 @@ class Assets {
   static const String imagesRegister = 'assets/images/register.jpg';
   static const String imagesRegister2 = 'assets/images/register2.png';
   static const String imagesReset password = 'assets/images/reset password.jpg';
+  static const String imagesSlogo = 'assets/images/slogo.png';
   static const String imagesTeam = 'assets/images/team.png';
   static const String imagesTeam2 = 'assets/images/team2.png';
   static const String imagesTeam3 = 'assets/images/team3.png';

@@ -21,10 +21,13 @@ import 'constant/const.dart';
 import 'constant/const.dart';
 import 'home/settingsscreen/settingscreen.dart';
 import 'network/remote/Dio Helper.dart';
+import 'network/remote/Dio_bins.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
   DioHelper.init();
   LoginDioHelper.init();
+  BinsDioHelper.init();
   await CacheHelper.init();
   // bool? isDark2= CacheHelper.getBoolean(key: 'isDark');
 

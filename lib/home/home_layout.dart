@@ -15,6 +15,7 @@ class home_layout extends StatelessWidget {
           return Scaffold(
               bottomNavigationBar: BottomNavigationBar(
                 type: BottomNavigationBarType.fixed,
+                // currentIndex: cubitobj.currentIndex,
                 currentIndex: cubitobj.currentIndex,
                 onTap: (index) {
                   cubitobj.BottomNav(index);
@@ -24,8 +25,8 @@ class home_layout extends StatelessWidget {
                       icon: Icon(Icons.home), label: 'Home'),
                   BottomNavigationBarItem(
                       icon: Icon(Icons.location_on), label: 'Map'),
-                  BottomNavigationBarItem(
-                      icon: Icon(Icons.card_giftcard), label: 'Reward'),
+                  // BottomNavigationBarItem(
+                  //     icon: Icon(Icons.card_giftcard), label: 'Reward'),
                   BottomNavigationBarItem(
                       icon: Icon(Icons.settings), label: 'Settings')
                 ],

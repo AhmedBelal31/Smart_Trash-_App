@@ -3,3 +3,4 @@ const PROFILE = 'profile' ;
 const REGISTER = 'register' ;
 const UPDATE = 'update-profile' ;
 const CHANGEPASSWORD = 'change-password' ;
+const binsInfo = 'bins' ;

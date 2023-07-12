@@ -27,3 +27,9 @@ class DirectionsLoaded extends MapsState {
   DirectionsLoaded(this.placeDirections);
 
 }
+
+class BinsInfoState extends MapsState {
+
+
+
+}
