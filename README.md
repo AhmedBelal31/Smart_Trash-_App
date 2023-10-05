@@ -1,16 +1,9 @@
 # smart_trash
 
-A new Flutter project.
+"WasteWise: Your Smart Waste Management Companion"
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---------------------------------------------------------
+Our mobile application revolutionizes waste management by providing users with convenient access to nearby
+garbage bins, real-time fill status updates, and relevant news on recycling and waste. With an intuitive interface,
+users can effortlessly locate available bins, ensuring efficient waste disposal. Stay informed, contribute to a cleaner
+environment, and adopt sustainable practices with our user-friendly waste management app.
