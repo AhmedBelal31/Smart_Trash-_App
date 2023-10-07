@@ -1,4 +1,11 @@
+![Onboarding](https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/b602ec64-975c-4770-8302-f9036792dd3e)
+![Login](https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/e0a6b674-c7ee-4cd0-b7bd-a2d3fbe2eac2)
+![Home Screen](https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/028daa54-00bc-4881-9eee-b2e94134ed7c)
+![Map](https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/9c1e446d-3c75-416d-ad59-d7560cea3c94)
+![WhatsApp Image 2023-07-11 at 15 57 03](https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/a70e1a65-4d90-48c1-add9-15c3b583b9a9)
 # smart_trash
+![Search On Map](https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/b975d7cf-f58e-419b-adff-92f0d0ccd3ab)
+![reset password](https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/a7dfed96-c413-42f5-8eeb-3268bfbfa55e)
 
 "WasteWise: Your Smart Waste Management Companion" (Graduation Project)
 
