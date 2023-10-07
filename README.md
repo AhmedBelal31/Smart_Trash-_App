@@ -1,3 +1,14 @@
+"WasteWise: Your Smart Waste Management Companion" (Graduation Project)
+
+---------------------------------------------------------
+Our mobile application revolutionizes waste management by providing users with convenient access to nearby
+garbage bins, real-time fill status updates, and relevant news on recycling and waste. With an intuitive interface,
+users can effortlessly locate available bins, ensuring efficient waste disposal. Stay informed, contribute to a cleaner
+environment, and adopt sustainable practices with our user-friendly waste management app.
+
+
+
+
 ![Onboarding](https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/b602ec64-975c-4770-8302-f9036792dd3e)
 ![Login](https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/e0a6b674-c7ee-4cd0-b7bd-a2d3fbe2eac2)
 ![Home Screen](https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/028daa54-00bc-4881-9eee-b2e94134ed7c)
@@ -9,7 +20,6 @@
 
 
 
-https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/d20af111-ae7e-4275-8676-5a942f84503a
 
 
 
@@ -20,10 +30,5 @@ https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/fdea19a3-68d6-4
 https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/0ec47f6c-f9e7-4f63-a9fd-2372aa494e96
 
 
-"WasteWise: Your Smart Waste Management Companion" (Graduation Project)
+https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/d20af111-ae7e-4275-8676-5a942f84503a
 
----------------------------------------------------------
-Our mobile application revolutionizes waste management by providing users with convenient access to nearby
-garbage bins, real-time fill status updates, and relevant news on recycling and waste. With an intuitive interface,
-users can effortlessly locate available bins, ensuring efficient waste disposal. Stay informed, contribute to a cleaner
-environment, and adopt sustainable practices with our user-friendly waste management app.
