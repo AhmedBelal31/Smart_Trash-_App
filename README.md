@@ -21,6 +21,8 @@ environment, and adopt sustainable practices with our user-friendly waste manage
 
 
 
+Firebase Authentication
+
 
 https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/0ec47f6c-f9e7-4f63-a9fd-2372aa494e96
 
@@ -28,6 +30,7 @@ https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/0ec47f6c-f9e7-4
 
 
 
+Google Map Api
 
 https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/fdea19a3-68d6-441d-81c0-3cd70294c098
 
