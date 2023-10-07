@@ -26,6 +26,9 @@ https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/0ec47f6c-f9e7-4
 
 
 
+
+
+
 https://github.com/AhmedBelal31/Smart_Trash_App/assets/131663660/fdea19a3-68d6-441d-81c0-3cd70294c098
 
 
